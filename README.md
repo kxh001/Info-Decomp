@@ -21,8 +21,8 @@ git clone git@github.com:kxh001/Info_Decomp.git
 cd Info_Decomp
 pip install -e .
 ```
-The 'daam' repository specifically requires 'diffusers==0.16.1', but 'stablediffusion.py' only supports 'diffusers>=0.19'.
-Thus, it requires installing 'daam' manually. 
+The [`daam`](https://github.com/castorini/daam) repository specifically requires `diffusers==0.16.1`, but `stablediffusion.py` only supports `diffusers>=0.19`.
+Thus, we recommend users to experiment with `daam` separately. 
 ```installDAAM
 git clone https://github.com/castorini/daam
 Manually change requirements.txt: 'diffusers==0.16.1' ==> 'diffusers==0.20.0', 
