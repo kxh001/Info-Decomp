@@ -1,0 +1,104 @@
+Image ID,Label,correct_obj+context,context,correct_obj,context_
+379453,airplane,The bottom view of an airplane flying in the air.,The bottom view of an  flying in the air.,airplane,The bottom view of an _ flying in the air.
+300659,airplane,A formation of airplanes flying through a  blue sky.,A formation of  flying through a  blue sky.,airplanes,A formation of _ flying through a blue sky.
+199977,airplane,The airplane in the sky is doing tricks while spitting out smoke. ,The  in the sky is doing tricks while spitting out smoke. ,airplane,The _ in the sky is doing tricks while spitting out smoke. 
+442480,airplane,A turboprop airplane that is in the hangar for repair. ,A turboprop  that is in the hangar for repair. ,airplane,A turboprop _ that is in the hangar for repair. 
+384350,airplane,A commercial airplane sits on a runway at an airport. ,A commercial  sits on a runway at an airport. ,airplane,A commercial _ sits on a runway at an airport. 
+383621,airplane,A large commercial airplane taking off into the sky,A large commercial  taking off into the sky,airplane,A large commercial _ taking off into the sky
+189828,airplane,Aerial view of an airplane ascending in to the sky.,Aerial view of an  ascending in to the sky.,airplane,Aerial view of an _ ascending in to the sky.
+485802,airplane,An airplane leaving a trail in the sky.,An  leaving a trail in the sky.,airplane,An _ leaving a trail in the sky.
+99054,airplane,A large jet airplane sitting on a tarmac at an airport.,A large jet  sitting on a tarmac at an airport.,airplane,A large jet _ sitting on a tarmac at an airport.
+488270,airplane,An airplane with wheels wheels barely off ground tilted slightly upward from the pavement to the blue sky.,An  with wheels wheels barely off ground tilted slightly upward from the pavement to the blue sky.,airplane,An _ with wheels wheels barely off ground tilted slightly upward from the pavement to the blue sky.
+375015,bear,A baby brown bear standing on top of a rock.,A baby brown  standing on top of a rock.,bear,A baby brown _ standing on top of a rock.
+173033,bear,A replica of a bear and her cub in a glass case in an exhibit.,A replica of a  and her cub in a glass case in an exhibit.,bear,A replica of a _ and her cub in a glass case in an exhibit.
+205776,bear,A bear laying in a canvas type net,A  laying in a canvas type net,bear,A _ laying in a canvas type net
+85478,bear,There is a polar bear swimming in the water.,There is a polar  swimming in the water.,bear,There is a polar _ swimming in the water.
+318080,bear,two different bears fight with each other behind a log,two different  fight with each other behind a log,bears,two different _ fight with each other behind a log
+92839,bear,A polar bear with his chin raised lies on a rock.,A polar  with his chin raised lies on a rock.,bear,A polar _ with his chin raised lies on a rock.
+42296,bear,a polar bear partially submerged in a body of water,a polar  partially submerged in a body of water,bear,a polar _ partially submerged in a body of water
+560266,bear,Two brown bears swimming together in the water.,Two brown  swimming together in the water.,bears,Two brown _ swimming together in the water.
+127955,bear,there are two brown bears that are playing together in the water,there are two brown  that are playing together in the water,bears,there are two brown _ that are playing together in the water
+307658,bear,A brown fuzzy bear standing in front of a leaf filled tree.,A brown fuzzy  standing in front of a leaf filled tree.,bear,A brown fuzzy _ standing in front of a leaf filled tree.
+39956,bed,A messy room with door and bed and chair.,A messy room with door and  and chair.,bed,A messy room with door and _ and chair.
+66523,bed,A bed topped with three white pillows covered in a canopy.,A  topped with three white pillows covered in a canopy.,bed,A _ topped with three white pillows covered in a canopy.
+355257,bed,A woman laying in a hospital bed hooded up to machines.,A woman laying in a hospital  hooded up to machines.,bed,A woman laying in a hospital _ hooded up to machines.
+199551,bed,A picture of a young boy laying on top of a bed.,A picture of a young boy laying on top of a .,bed,A picture of a young boy laying on top of a _.
+239347,bed,A photo of a man and his wife on a bed,A photo of a man and his wife on a ,bed,A photo of a man and his wife on a _
+365387,bed,"A room with a sink, bed and toilet in it","A room with a sink,  and toilet in it",bed,"A room with a sink, _ and toilet in it"
+113403,bed,Three teddy bears laying in bed under the covers.,Three teddy bears laying in  under the covers.,bed,Three teddy bears laying in _ under the covers.
+134112,bed,A small dog laying on a bed next to a laptop computer.,A small dog laying on a  next to a laptop computer.,bed,A small dog laying on a _ next to a laptop computer.
+218091,bed,A bedroom with a large bed sitting next to a black dresser.,A room with a large  sitting next to a black dresser.,bed,A room with a large _ sitting next to a black dresser.
+578545,bed,A pregnant woman laying in bed reading a book.,A pregnant woman laying in  reading a book.,bed,A pregnant woman laying in _ reading a book.
+403817,cat,A cat sitting beside a laptop on a desk.,A  sitting beside a laptop on a desk.,cat,A _ sitting beside a laptop on a desk.
+366141,cat,a cat laying on top of a chair in the living room ,a  laying on top of a chair in the living room ,cat,a _ laying on top of a chair in the living room 
+545826,cat,A black and white cat that is standing on all fours and has an elephant hat on it's head.,A black and white  that is standing on all fours and has an elephant hat on it's head.,cat,A black and white _ that is standing on all fours and has an elephant hat on it's head.
+166277,cat,A cat drinking out of a glass on top of a table.,A  drinking out of a glass on top of a table.,cat,A _ drinking out of a glass on top of a table.
+269314,cat,A cat sitting on top of a banana tree.,A  sitting on top of a banana tree.,cat,A _ sitting on top of a banana tree.
+181859,cat,A cute cat laying down in a sink.,A cute  laying down in a sink.,cat,A cute _ laying down in a sink.
+177015,cat,A man using his laptop computer while a cat sits on his lap.,A man using his laptop computer while a  sits on his lap.,cat,A man using his laptop computer while a _ sits on his lap.
+501523,cat,A black cat is sitting in a bathroom sink.,A black  is sitting in a bathroom sink.,cat,A black _ is sitting in a bathroom sink.
+291490,cat,A cat peeking it's head out of the blankets.,A  peeking it's head out of the blankets.,cat,A _ peeking it's head out of the blankets.
+211042,cat,there is a cat that is drinking out of the toilet,there is a  that is drinking out of the toilet,cat,there is a _ that is drinking out of the toilet
+564280,dog,A large dog sitting on top of a picture frame.,A large  sitting on top of a picture frame.,dog,A large _ sitting on top of a picture frame.
+482917,dog,"A dog sitting between its masters feet on a footstool watching tv
+","A  sitting between its masters feet on a footstool watching tv
+",dog,"A _ sitting between its masters feet on a footstool watching tv
+"
+255664,dog,A yellow dog runs to grab a yellow frisbee in the grass ,A yellow  runs to grab a yellow frisbee in the grass ,dog,A yellow _ runs to grab a yellow frisbee in the grass 
+72813,dog,a dog laying on a bed with a tv in the background,a  laying on a bed with a tv in the background,dog,a _ laying on a bed with a tv in the background
+366611,dog,A dog is chewing on a soccer ball.,A  is chewing on a soccer ball.,dog,A _ is chewing on a soccer ball.
+159458,dog,A dog rests on a bed in a bedroom where one person is also sitting.,A  rests on a bed in a bedroom where one person is also sitting.,dog,A _ rests on a bed in a bedroom where one person is also sitting.
+205834,dog,a close up of a dog near a bowl,a close up of a  near a bowl,dog,a close up of a _ near a bowl
+446522,dog,A dog sitting on a chair underneath a painting.,A  sitting on a chair underneath a painting.,dog,A _ sitting on a chair underneath a painting.
+494869,dog,A woman standing at a kitchen counter with a child and a dog is behind her.,A woman standing at a kitchen counter with a child and a  is behind her.,dog,A woman standing at a kitchen counter with a child and a _ is behind her.
+125405,dog,Two brown and white dogs running in a park. ,Two brown and white  running in a park. ,dogs,Two brown and white _ running in a park. 
+384468,elephant,A group of people riding a large gray elephant.,A group of people riding a large gray .,elephant,A group of people riding a large gray _.
+414795,elephant,A herd of elephants walking into a large body of water.,A herd of  walking into a large body of water.,elephants,A herd of _ walking into a large body of water.
+166563,elephant,A large statue of an elephant is attached to a business sign.,A large statue of an  is attached to a business sign.,elephant,A large statue of an _ is attached to a business sign.
+301061,elephant,A person is moving green hay towards an elephant that is inside the back of a white truck.,A person is moving green hay towards an  that is inside the back of a white truck.,elephant,A person is moving green hay towards an _ that is inside the back of a white truck.
+106757,elephant,A actress standing near an elephant on a sunny day. ,A actress standing near an  on a sunny day. ,elephant,A actress standing near an _ on a sunny day. 
+183648,elephant,A woman pats an elephant as a couple men watch.,A woman pats an  as a couple men watch.,elephant,A woman pats an _ as a couple men watch.
+126216,elephant,Three elephants in a grassy area with trees around.,Three  in a grassy area with trees around.,elephants,Three _ in a grassy area with trees around.
+267191,elephant,Two people are riding elephants beside some trees.,Two people are riding  beside some trees.,elephants,Two people are riding _ beside some trees.
+6894,elephant,A man getting a kiss on the neck from an elephant's trunk,A man getting a kiss on the neck from an 's trunk,elephant,A man getting a kiss on the neck from an _'s trunk
+133631,elephant,"The old, adult elephant stands near a wire fence.","The old, adult  stands near a wire fence.",elephant,"The old, adult _ stands near a wire fence."
+367680,horse,A horse drawn carriage among several other motor vehicles on a road.,A  drawn carriage among several other motor vehicles on a road.,horse,A _ drawn carriage among several other motor vehicles on a road.
+360661,horse,A couple of jockey's riding the horses through the beach.,A couple of jockey's riding the  through the beach.,horses,A couple of jockey's riding the _ through the beach.
+369081,horse,A group of horses are grazing in the field.,A group of  are grazing in the field.,horses,A group of _ are grazing in the field.
+476215,horse,A man standing behind two brown horses on a dirt field.,A man standing behind two brown  on a dirt field.,horses,A man standing behind two brown _ on a dirt field.
+281447,horse,a brown horse in the field gazing around,a brown  in the field gazing around,horse,a brown _ in the field gazing around
+552371,horse,Close up of two horses inside of the fence,Close up of two  inside of the fence,horses,Close up of two _ inside of the fence
+576052,horse,A female horse rider mounted near a body of water and mountains.,A female  rider mounted near a body of water and mountains.,horse,A female _ rider mounted near a body of water and mountains.
+23034,horse,A man riding on the back of a brown horse.,A man riding on the back of a brown .,horse,A man riding on the back of a brown _.
+141671,horse,A group of people riding motorcycles and horses on a race track.,A group of people riding motorcycles and  on a race track.,horses,A group of people riding motorcycles and _ on a race track.
+506656,horse,a guy standing in front of a few horses.,a guy standing in front of a few .,horses,a guy standing in front of a few _.
+276434,person,a person that is cutting a cake on a tasble,a  that is cutting a cake on a tasble,person,a _ that is cutting a cake on a tasble
+402118,person,A person riding a snow board while flying through the air.,A  riding a snow board while flying through the air.,person,A _ riding a snow board while flying through the air.
+125257,person,a person walking on a snow covered field.,a  walking on a snow covered field.,person,a _ walking on a snow covered field.
+579635,person,A person riding a wave on top of a surfboard.,A  riding a wave on top of a surfboard.,person,A _ riding a wave on top of a surfboard.
+516601,person,Many people skiing down a snow covered slope.,Many  skiing down a snow covered slope.,people,Many _ skiing down a snow covered slope.
+407650,person,A young person jumping their snow board in the air as they ski down a mountain.,A young  jumping their snow board in the air as they ski down a mountain.,person,A young _ jumping their snow board in the air as they ski down a mountain.
+89078,person,A person is snowboarding slowly down a covered hill.,A  is snowboarding slowly down a covered hill.,person,A _ is snowboarding slowly down a covered hill.
+217872,person,A person doing a trick on a snowboard over a hill.,A  doing a trick on a snowboard over a hill.,person,A _ doing a trick on a snowboard over a hill.
+295316,person,some people are riding surfboards on a wave,some  are riding surfboards on a wave,people,some _ are riding surfboards on a wave
+393469,person,A person is standing in the white snow.,A  is standing in the white snow.,person,A _ is standing in the white snow.
+153343,teddy bear,two teddy bears that are large sitting in a small garden,two  that are large sitting in a small garden,teddy bears,two _ that are large sitting in a small garden
+70229,teddy bear,a park bench that has a teddy bear on it,a park bench that has a  on it,teddy bear,a park bench that has a _ on it
+125062,teddy bear,A row of white teddy bears on shelf next to DVDs.,A row of white  on shelf next to DVDs.,teddy bears,A row of white _ on shelf next to DVDs.
+435205,teddy bear,A pregnant with writing on her stomach while holding a brown teddy bear.,A pregnant with writing on her stomach while holding a brown .,teddy bear,A pregnant with writing on her stomach while holding a brown _.
+376442,teddy bear,a toilet with a teddy bear sitting on the seat .,a toilet with a  sitting on the seat .,teddy bear,a toilet with a _ sitting on the seat .
+219283,teddy bear,A teddy bear sitting in front of a pile of boxes.,A  sitting in front of a pile of boxes.,teddy bear,A _ sitting in front of a pile of boxes.
+471869,teddy bear,A teddy bear sitting on a blue chair.,A  sitting on a blue chair.,teddy bear,A _ sitting on a blue chair.
+189436,teddy bear,A teddy bear that appears to be made out of wood.,A  that appears to be made out of wood.,teddy bear,A _ that appears to be made out of wood.
+82180,teddy bear,A teddy bear and a stuffed raccoon sitting on a faded wooden outdoor chair.,A  and a stuffed raccoon sitting on a faded wooden outdoor chair.,teddy bear,A _ and a stuffed raccoon sitting on a faded wooden outdoor chair.
+205542,teddy bear,A teddy bear is placed on a metallic sculpture.,A  is placed on a metallic sculpture.,teddy bear,A _ is placed on a metallic sculpture.
+516316,zebra,An antilope is eating grass in between two zebra.,An antilope is eating grass in between two .,zebra,An antilope is eating grass in between two _.
+125211,zebra,A zebra standing on top of a grass covered field.,A  standing on top of a grass covered field.,zebra,A _ standing on top of a grass covered field.
+562121,zebra,Two zebras fighting in a cloud of dust,Two  fighting in a cloud of dust,zebras,Two _ fighting in a cloud of dust
+311295,zebra,A group of zebras in a field by some trees.,A group of  in a field by some trees.,zebras,A group of _ in a field by some trees.
+31269,zebra,three zebras in a field near bushes ,three  in a field near bushes ,zebras,three _ in a field near bushes 
+545129,zebra,A group of zebra standing next to each other on a dirt field.,A group of  standing next to each other on a dirt field.,zebra,A group of _ standing next to each other on a dirt field.
+546011,zebra,A trio of zebras stand together in the grass.,A trio of  stand together in the grass.,zebras,A trio of _ stand together in the grass.
+552902,zebra,a zebra grazes on some green grass next to some trees ,a  grazes on some green grass next to some trees ,zebra,a _ grazes on some green grass next to some trees 
+110211,zebra,A herd of zebra walking across a grass covered field.,A herd of  walking across a grass covered field.,zebra,A herd of _ walking across a grass covered field.
+16010,zebra,An outdoor area with many animals inluding a zebra and a rhinoceros.  ,An outdoor area with many animals inluding a  and a rhinoceros.,zebra,An outdoor area with many animals inluding a _ and a rhinoceros.

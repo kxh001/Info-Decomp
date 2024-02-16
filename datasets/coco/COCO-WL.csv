@@ -1,0 +1,71 @@
+Image ID,Label,correct_obj+context,context,correct_obj,context_,
+255664,run,A yellow dog runs to grab a yellow frisbee in the grass ,A yellow dog  to grab a yellow frisbee in the grass ,runs,A yellow dog _ to grab a yellow frisbee in the grass ,verb
+409542,walking,A group of people walking past a tall clock.,A group of people  past a tall clock.,walking,A group of people _ past a tall clock.,verb
+134112,laying,A small dog laying on a bed next to a laptop computer.,A small dog  on a bed next to a laptop computer.,laying,A small dog _ on a bed next to a laptop computer.,verb
+190756,jumping,a person jumping in the air on a motorcycle,a person  in the air on a motorcycle,jumping,a person _ in the air on a motorcycle,verb
+482917,looking,A dog between the feet of a person looking at a TV.,A dog between the feet of a person  at a TV.,looking,A dog between the feet of a person _ at a TV.,verb
+80340,holding,A boy in a tie holding a small suit case.,A boy in a tie  a small suit case.,holding,A boy in a tie _ a small suit case.,verb
+552902,graze,a zebra grazes on some green grass next to some trees ,a zebra  on some green grass next to some trees ,grazes,a zebra _ on some green grass next to some trees ,verb
+85478,swimming,There is a polar bear swimming in the water.,There is a polar bear  in the water.,swimming,There is a polar bear _ in the water.,verb
+374369,wearing,a person standing snow wearing a snow suit and skis,a person standing snow  a snow suit and skis,wearing,a person standing snow _ a snow suit and skis,verb
+23034,riding,A man riding on the back of a brown horse.,A man  on the back of a brown horse.,riding,A man _ on the back of a brown horse.,verb
+494759,two,Two people on a beach flying a kite in the air., people on a beach flying a kite in the air.,Two,_ people on a beach flying a kite in the air.,num
+31269,three,three zebras in a field near bushes ,zebras in a field near bushes ,three,_ zebras in a field near bushes ,num
+562121,two,Two zebras fighting in a cloud of dust, zebras fighting in a cloud of dust,Two,_ zebras fighting in a cloud of dust,num
+41888,three,Three birds walking around a dry grass field., birds walking around a dry grass field.,Three,_ birds walking around a dry grass field.,num
+221708,four,A kitchen with a table and four chairs.,A kitchen with a table and  chairs.,four,A kitchen with a table and _ chairs.,num
+125072,five,Five cows are grazing at a lake next to a road., cows are grazing at a lake next to a road.,Five,_ cows are grazing at a lake next to a road.,num
+566042,six,Six giraffe are standing looking in the same direction., giraffe are standing looking in the same direction.,Six,_ giraffe are standing looking in the same direction.,num
+151820,seven,Seven business people eating and talking around a dining table, business people eating and talking around a dining table,Seven,_ business people eating and talking around a dining table,num
+372819,four,Four smaller dogs are running away from the women on the bench. , smaller dogs are running away from the women on the bench. ,Four,_ smaller dogs are running away from the women on the bench. ,num
+41635,three,Three cows standing on a grass field under a cloudy sky., cows standing on a grass field under a cloudy sky.,Three,_ cows standing on a grass field under a cloudy sky.,num
+181859,cute,A cute cat laying down in a sink.,A  cat laying down in a sink.,cute,A _ cat laying down in a sink.,adj
+407518,brown,A brown bird perched on top of a metal fence.,A  bird perched on top of a metal fence.,brown,A _ bird perched on top of a metal fence.,adj
+578545,pregnant,A pregnant woman laying in bed reading a book.,A  woman laying in bed reading a book.,pregnant,A _ woman laying in bed reading a book.,adj
+25560,orange and white,An orange and white cat standing in front of a flat screen TV,An  cat standing in front of a flat screen TV,orange and white,An _ cat standing in front of a flat screen TV,adj
+233771,black and white,A black and white image with a colored british flag umbrella,A  image with a colored british flag umbrella,black and white,A _ image with a colored british flag umbrella,adj
+273132,elderly,An elderly woman sitting on the bench resting.  ,An  woman sitting on the bench resting.,elderly,An _ woman sitting on the bench resting. ,adj
+460160,white,a white bird some sand water rocks and grass,a  bird some sand water rocks and grass,white,a _ bird some sand water rocks and grass,adj
+338428,older,An older pickup truck with decorative murals painted on.,An  pickup truck with decorative murals painted on.,older,An _ pickup truck with decorative murals painted on.,adj
+70254, green and yellow,A green and yellow train traveling past a platform.,A  train traveling past a platform.,green and yellow,A _ train traveling past a platform.,adj
+553990,young,A young person ridding a horse jumps a gate in a competition.,A  person ridding a horse jumps a gate in a competition.,young,A _ person ridding a horse jumps a gate in a competition.,adj
+356261,slowly,A small buckskin horse walking slowly down a hill.,A small buckskin horse walking  down a hill.,slowly,A small buckskin horse walking _ down a hill.,adv
+466125,brightly,The child smiles brightly while being handed a pink umbrella. ,The child smiles  while being handed a pink umbrella. ,brightly,The child smiles _ while being handed a pink umbrella. ,adv
+17714,decoratively,A banana frittata next to a plate of decoratively cut fruit and a cup of coffee.,A banana frittata next to a plate of  cut fruit and a cup of coffee.,decoratively,A banana frittata next to a plate of _ cut fruit and a cup of coffee.,adv
+274219,happily,An older man with a bow tie happily poses for a picture.,An older man with a bow tie  poses for a picture.,happily,An older man with a bow tie _ poses for a picture.,adv
+64868,maniacly,A man smiles maniacly while putting a dog into an oven.,A man smiles  while putting a dog into an oven.,maniacly,A man smiles _ while putting a dog into an oven.,adv
+412887,friendly,"Though not the smartest animals in the world, the cow still has a friendly face.","Though not the smartest animals in the world, the cow still has a  face.",friendly,"Though not the smartest animals in the world, the cow still has a _ face.",adv
+528314,vertically,A person on skis with one standing vertically,A person on skis with one standing ,vertically,A person on skis with one standing _,adv
+277689,lavishly,Lavishly decorated cake and empty drinking glasses await their tropical guests, decorated cake and empty drinking glasses await their tropical guests,Lavishly,_ decorated cake and empty drinking glasses await their tropical guests,adv
+555005,comfortably,A large dogs comfortably sleeping on someones bed,A large dogs  sleeping on someones bed,comfortably,A large dogs _ sleeping on someones bed,adv
+439426,partially,A hand holding a donut that been partially eaten.,A hand holding a donut that been  eaten.,partially,A hand holding a donut that been _ eaten.,adv
+302452,behind,A giraffe drinking milk from a bottle behind a cage.,A giraffe drinking milk from a bottle  a cage.,behind,A giraffe drinking milk from a bottle _ a cage.,perp
+311303, in front of,A cup with soda in front of a panini with a side of greens.,A cup with soda  a panini with a side of greens., in front of,A cup with soda _ a panini with a side of greens.,perp
+456662,in front of,A child standing completely upright in front of a refrigerator.,A child standing completely upright  a refrigerator.,in front of,A child standing completely upright _ a refrigerator.,perp
+520832,in front of,A person walking down a street in front of a building.,A person walking down a street  a building.,in front of,A person walking down a street _ a building.,perp
+320425,next to,A group of giraffe standing next to each other on a dirt field.,A group of giraffe standing  each other on a dirt field.,next to,A group of giraffe standing _ each other on a dirt field.,perp
+149622,next to,The birds are sitting next to each other on a tree branch,The birds are sitting  each other on a tree branch,next to,The birds are sitting _ each other on a tree branch,perp
+81988,next to,A man standing on a beach next to four other people.,A man standing on a beach  four other people.,next to,A man standing on a beach _ four other people.,perp
+494869,behind,A woman standing at a kitchen counter with a child and a dog is behind her.,A woman standing at a kitchen counter with a child and a dog is  her.,behind,A woman standing at a kitchen counter with a child and a dog is _ her.,perp
+151662,behind,a giraffe behind a fence eating grass from a feeder,a giraffe  a fence eating grass from a feeder,behind,a giraffe _ a fence eating grass from a feeder,perp
+551439,behind,A woman smiles from behind the book she has been reading.,A woman smiles from  the book she has been reading.,behind,A woman smiles from _ the book she has been reading.,perp
+432898,his,The man is flying his kite in the sky. ,The man is flying  kite in the sky. ,his,The man is flying _ kite in the sky. ,pronoun
+44195,her,A woman with a snowboard with a man standing next to her on a ski slope.,A woman with a snowboard with a man standing next to  on a ski slope.,her,A woman with a snowboard with a man standing next to _ on a ski slope.,pronoun
+414510,his,Man sitting on a sidewalk next to a bicycle talking on his cell phone.,Man sitting on a sidewalk next to a bicycle talking on  cell phone.,his,Man sitting on a sidewalk next to a bicycle talking on _ cell phone.,pronoun
+577959,his,An old man is flying his kite in the middle of no where.,An old man is flying  kite in the middle of no where.,his,An old man is flying _ kite in the middle of no where.,pronoun
+250137,her,A woman reaching in her purse while holding an umbrella.,A woman reaching in  purse while holding an umbrella.,her,A woman reaching in _ purse while holding an umbrella.,pronoun
+209753,her,A woman with large black tear drop earrings and a black dress looks at her cell phone. ,A woman with large black tear drop earrings and a black dress looks at  cell phone. ,her,A woman with large black tear drop earrings and a black dress looks at _ cell phone. ,pronoun
+507042,their,Three giraffes stand near the fence of their enclosure.,Three giraffes stand near the fence of  enclosure.,their,Three giraffes stand near the fence of _ enclosure.,pronoun
+119641,their,A herd of elephants walking down a river with people riding on their backs.,A herd of elephants walking down a river with people riding on  backs.,their,A herd of elephants walking down a river with people riding on _ backs.,pronoun
+544519,their,An Asian child brushes their teeth with a blue toothbrush.,An Asian child brushes  teeth with a blue toothbrush.,their,An Asian child brushes _ teeth with a blue toothbrush.,pronoun
+171190,their,A ground of people sitting around a table holding wine glasses in their hands.,A ground of people sitting around a table holding wine glasses in  hands.,their,A ground of people sitting around a table holding wine glasses in _ hands.,pronoun
+337498,and,A large slice of pizza with cheese and marinara sauce on a plate. ,A large slice of pizza with cheese  marinara sauce on a plate. ,and,A large slice of pizza with cheese _ marinara sauce on a plate. ,conj
+177015,while,A man using his laptop computer while a cat sits on his lap.,A man using his laptop computer  a cat sits on his lap.,while,A man using his laptop computer _ a cat sits on his lap.,conj
+440184,while,Four people play a game of mixed doubles tennis while another man looks on.,Four people play a game of mixed doubles tennis  another man looks on.,while,Four people play a game of mixed doubles tennis _ another man looks on.,conj
+263969,and,Man and woman holding a knife up to a small cake. ,Man  woman holding a knife up to a small cake. ,and,Man _ woman holding a knife up to a small cake. ,conj
+353096,and,A desktop computer surrounded by two speakers and a keyboard.,A desktop computer surrounded by two speakers  a keyboard.,and,A desktop computer surrounded by two speakers _ a keyboard.,conj
+312213,but,A cat sitting by a laptop but staring at a person. ,A cat sitting by a laptop  staring at a person. ,but,A cat sitting by a laptop _ staring at a person. ,conj
+335529,where,A wooden bench next to the water where a lot a boats are.,A wooden bench next to the water  a lot a boats are.,where,A wooden bench next to the water _ a lot a boats are.,conj
+12667,where,The telephone has a banana where the receiver should be.,The telephone has a banana  the receiver should be.,where,The telephone has a banana _ the receiver should be.,conj
+185157,where,A sign that might read parking here where bicycles are parked.,A sign that might read parking here  bicycles are parked.,where,A sign that might read parking here _ bicycles are parked.,conj
+356169,and,two cars driving on a street near a tree and a fence,two cars driving on a street near a tree  a fence,and,two cars driving on a street near a tree _ a fence,conj
