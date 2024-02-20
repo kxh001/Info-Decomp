@@ -71,7 +71,7 @@ def main():
         word_swaps[b + 's'] = a + 's'
 
     # TODO: change the data pipeline
-    df = pd.read_csv('/data/xkong016/research/datasets/coco/COCO100-IT.csv')
+    df = pd.read_csv('./datasets/coco/COCO100-IT.csv')
     for i, row in df.iterrows():
         try:
             img_name = f"{row['Image ID']:012d}.jpg"

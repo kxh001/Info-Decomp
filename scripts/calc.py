@@ -115,7 +115,7 @@ def main():
         print(f'The best mIoU is {miou}, and IoU variance is {stds}.')
 
     elif calc_type == 'pearson':
-        df = pd.read_csv(f'./dataset/COCO100-IT.csv')
+        df = pd.read_csv(f'./dataset/coco/COCO100-IT.csv')
         pixel_changes, attentions_pixel, cmis_pixel = [], [], []
         pixel_changes_score, attentions, cmis = [], [], []
         for i, row in df.iterrows():
