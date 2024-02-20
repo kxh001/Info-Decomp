@@ -203,13 +203,13 @@ We adopted the pre-train [Stable Diffusion v2-1-base model card](https://hugging
 
 ## BibTex
 ```cite
-@misc{kong2023interpretable,
-      title={Interpretable Diffusion via Information Decomposition}, 
-      author={Xianghao Kong and Ollie Liu and Han Li and Dani Yogatama and Greg Ver Steeg},
-      year={2023},
-      eprint={2310.07972},
-      archivePrefix={arXiv},
-      primaryClass={cs.LG}
+@inproceedings{
+kong2024interpretable,
+title={Interpretable Diffusion via Information Decomposition},
+author={Xianghao Kong and Ollie Liu and Han Li and Dani Yogatama and Greg Ver Steeg},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=X6tNkN6ate}
 }
 ```
 
