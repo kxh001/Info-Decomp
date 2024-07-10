@@ -9,7 +9,7 @@ $$
 \mathfrak{i}^o(x;y) \equiv \frac{1}{2} \int \mathbb E_{p(\epsilon)} \left[|| \hat\epsilon_\alpha(x_\alpha) - \hat\epsilon_\alpha(x_\alpha | y) ||^2 \right] d\alpha
 $$
 
-Paper Link: [https://arxiv.org/abs/2310.07972](Paper Link: https://arxiv.org/abs/2310.07972)
+Paper Link: [https://arxiv.org/abs/2310.07972](https://arxiv.org/abs/2310.07972)
 
 ## BibTex
 ```cite
