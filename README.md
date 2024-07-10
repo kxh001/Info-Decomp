@@ -9,6 +9,19 @@ $$
 \mathfrak{i}^o(x;y) \equiv \frac{1}{2} \int \mathbb E_{p(\epsilon)} \left[|| \hat\epsilon_\alpha(x_\alpha) - \hat\epsilon_\alpha(x_\alpha | y) ||^2 \right] d\alpha
 $$
 
+Paper Link: [https://arxiv.org/abs/2310.07972](Paper Link: https://arxiv.org/abs/2310.07972)
+
+## BibTex
+```cite
+@inproceedings{
+kong2024interpretable,
+title={Interpretable Diffusion via Information Decomposition},
+author={Xianghao Kong and Ollie Liu and Han Li and Dani Yogatama and Greg Ver Steeg},
+booktitle={The Twelfth International Conference on Learning Representations},
+year={2024},
+url={https://openreview.net/forum?id=X6tNkN6ate}
+}
+```
 
 ## Environmnet Setup
 Install dependencies by running:
@@ -200,18 +213,6 @@ We adopted the pre-train [Stable Diffusion v2-1-base model card](https://hugging
 
 5. Denoising diffusion process. 
 ![denosing_diffusion](./assets/denoising_diffusion.png)
-
-## BibTex
-```cite
-@inproceedings{
-kong2024interpretable,
-title={Interpretable Diffusion via Information Decomposition},
-author={Xianghao Kong and Ollie Liu and Han Li and Dani Yogatama and Greg Ver Steeg},
-booktitle={The Twelfth International Conference on Learning Representations},
-year={2024},
-url={https://openreview.net/forum?id=X6tNkN6ate}
-}
-```
 
 ## Reference
 - HuggingFace's [diffusers](https://github.com/huggingface/diffusers) library.
