@@ -10,6 +10,7 @@ $$
 $$
 
 Paper Link: [https://arxiv.org/abs/2310.07972](https://arxiv.org/abs/2310.07972)
+Video Link: [https://iclr.cc/virtual/2024/poster/18458](https://iclr.cc/virtual/2024/poster/18458)
 
 ## BibTex
 ```cite
